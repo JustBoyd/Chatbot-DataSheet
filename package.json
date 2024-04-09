@@ -1,0 +1,17 @@
+{
+  "name": "new-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "excelUtil.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@googleapis/drive": "^8.7.0",
+    "googleapis": "^134.0.0",
+    "xlsx": "^0.18.5"
+  }
+}
